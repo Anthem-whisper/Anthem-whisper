@@ -7,7 +7,8 @@
 - Web安全 | 代码审计 | CTF
 - CTF和实战更偏CTF
 - 渗透测试和安全研究更偏安全研究
+- 略懂音乐，喜欢钢琴
 
-<br/><br/>
+<br/><br/><br/><br/>
 
-You are the [![Top Langs](https://profile-counter.glitch.me/anthem-whisper/count.svg)](https://github.com/Anthem-whisper)th visitor.
+<div align="right">You are the <img src="https://profile-counter.glitch.me/anthem-whisper/count.svg">th visitor.</div>
