@@ -2,7 +2,7 @@
 
 > The quieter you become, the more you are able to hear.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Anthem-whisper&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anthem-whisper&show_icons=true&title_color=428bed&icon_color=2c53db">
 
 - Web安全 | 代码审计 | CTF
 - CTF和实战更偏CTF
