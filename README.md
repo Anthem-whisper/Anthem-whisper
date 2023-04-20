@@ -4,7 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anthem-whisper&show_icons=true&title_color=428bed&icon_color=2c53db">
 
-- 19级本科在读
 - Web安全 | 代码审计 | CTF
 - 渗透测试和安全研究更偏安全研究
 - 略懂音乐，喜欢钢琴
